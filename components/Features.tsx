@@ -21,7 +21,7 @@ export default function Features() {
                                 <svg xmlns="http://www.w3.org/2000/svg" className="w-8 h-8 " viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" fill="none" strokeLinecap="round" strokeLinejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path d="M18 8a3 3 0 0 1 0 6"></path><path d="M10 8v11a1 1 0 0 1 -1 1h-1a1 1 0 0 1 -1 -1v-5"></path><path d="M12 8h0l4.524 -3.77a0.9 .9 0 0 1 1.476 .692v12.156a0.9 .9 0 0 1 -1.476 .692l-4.524 -3.77h-8a1 1 0 0 1 -1 -1v-4a1 1 0 0 1 1 -1h8"></path></svg>
                             </div>
                             <h4 className="text-2xl font-bold text-[#1e1e31] uppercase">Competitive</h4>
-                            <p className="text-lg text-center text-[#1e1e31]">Don't mistake friendly for uncompetitive.
+                            <p className="text-lg text-center text-[#1e1e31]">Do`&apos;`t mistake friendly for uncompetitive.
 
                                 The RPM league hosts 3 highly competitive race tiers for drivers of all abilities.
 
